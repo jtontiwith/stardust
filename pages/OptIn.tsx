@@ -1,12 +1,7 @@
 import React from "react";
-import TestComponent from "../src/components/Input";
 
 const OptIn = () => {
-  return (
-    <div className="border border-black">
-      <TestComponent />
-    </div>
-  );
+  return <div className="border border-black">placeholder</div>;
 };
 
 export default OptIn;
