@@ -8,23 +8,23 @@ const Home = () => {
   // oMpAz-DN-9I <-the guy looking up
   // a97pWzdnzl0 <-the van in snow
 
-  // const imgURls = [
-  //   "oMpAz-DN-9I",
-  //   "Jztmx9yqjBw",
-  //   "TmHot1VRct0",
-  //   "CVIvWAbUC08",
-  //   "E0AHdsENmDg",
-  //   "zepnJQycr4U",
-  //   "ympe58UPxnU",
-  //   "a97pWzdnzl0",
-  //   "zGrc_XkBhe4",
-  //   "jT3OSNXyDtY",
-  //   "jGxyCHwJoRA",
-  //   "-WkMdYftaA8",
-  //   "ZDOHjEfccyA",
-  //   "K5FyKiaYQhU",
-  //   "pq2DJBntZW0",
-  // ];
+  const imgURls = [
+    "oMpAz-DN-9I",
+    "Jztmx9yqjBw",
+    "TmHot1VRct0",
+    "CVIvWAbUC08",
+    "E0AHdsENmDg",
+    "zepnJQycr4U",
+    "ympe58UPxnU",
+    "a97pWzdnzl0",
+    "zGrc_XkBhe4",
+    "jT3OSNXyDtY",
+    "jGxyCHwJoRA",
+    "-WkMdYftaA8",
+    "ZDOHjEfccyA",
+    "K5FyKiaYQhU",
+    "pq2DJBntZW0",
+  ];
 
   // function yourFunction() {
   //   // do whatever you like here
