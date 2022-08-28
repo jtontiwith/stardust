@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import Image from "next/image";
 import React, { useState } from "react";
-import Input from "../src/components/Input";
+import Cta from "../src/components/Cta";
 
 const Home = () => {
   const [imgId, setImgId] = useState("oMpAz-DN-9I");
@@ -60,7 +60,7 @@ const Home = () => {
           objectFit="cover" // change to suit your needs
           className="z-0 brightness-50"
         />
-        <Input />
+        <Cta />
       </div>
     </>
   );
