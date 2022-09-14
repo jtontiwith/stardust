@@ -54,7 +54,7 @@ const Home = () => {
           </svg>
         </div>
         <Image
-          src={`https://source.unsplash.com/${imgId}/2400x1600`}
+          src="/home_background.jpg"
           alt="Picture of the author"
           layout="fill" // required
           objectFit="cover" // change to suit your needs
