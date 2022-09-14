@@ -39,7 +39,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="h-screen w-full relative z-0 flex justify-center items-center">
+      <div className="h-screen w-full relative z-0 flex justify-center items-center bg-slate-700">
         <div className="z-10 absolute right-4 top-4">
           <svg
             fill="currentColor"
